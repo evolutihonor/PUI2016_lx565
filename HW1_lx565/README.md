@@ -18,5 +18,6 @@ To set alias,
 later on, I learned I can open "emacs ~/.bashrc" , then edit alias and env variables like just edit text.
 
 -----------------
-https://github.com/lx565/PUI2016_lx565/edit/master/HW1_lx565/README.md
+![image](SC1_converted.png)
+![image](SC2_converted.png)
 
