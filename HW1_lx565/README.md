@@ -1,7 +1,8 @@
 HOMEWORK 1
 
 Assignment 2
-I did this assignment by myself and I used online resources, such as YOUTUBE Videos and Stackoverflow posts.
+
+I did this assignment by myself and I used some online resources for help, such as YOUTUBE Videos and Stackoverflow posts.
 
 To set up my environment variables,
 1. Open Mac terminal, connect to compute. 
