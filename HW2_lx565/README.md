@@ -1,4 +1,7 @@
 Homework 2:
+lx565 Le Xu
+
+
 Assignment 1: 
 I was able to get the api key and grab the Json file from MTA. The json file is rather difficult to read different layers, 
 so I used Json file reader to help me look into different objects.
