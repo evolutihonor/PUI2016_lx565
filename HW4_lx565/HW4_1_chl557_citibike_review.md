@@ -2,7 +2,13 @@ Author: Chuan-Heng Lin
 # HW4_1_chl557
 ### a. Verify formatting of Null and Alternative Hypotheses
 
-The idea of null and alternative hypothese is correct. 
+NULL HYPOTHESIS:
+The ratio of man age under or equal to 25 years old to man age beyond 25 years old is same or higher than the ratio of woman age under or equal to 25 years old to woman age beyond 25 years old \n",
+
+ALTERNERTIVE HYPOTHESIS:
+The ratio of man age under or equal to 25 years old to man age beyond 25 years old is smaller than the ratio of woman age under or equal to 25 years old to woman age beyond 25 years old
+
+From the above, The idea of null and alternative hypothese is correct. 
 
 ### b. Verify that the data supports the project 
 
