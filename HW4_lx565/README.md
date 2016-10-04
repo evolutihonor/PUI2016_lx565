@@ -1,7 +1,7 @@
 I did the assignment 1 alone, used the cheatsheet to help me identify which test to use. 
 
 I did my assignment 2 with Avikal Somvanshi. We deicded at the beginning to do Ancova and path analysis. I found the Ancova test and Avikal found the path analysis article. Then we worked on both of them together, we discussed which was the IVs and the types and so on.  
-I did my assignment 3 & 4 by myself alone. I looked at posts explaining those tests and also look at stackover flow for coding help.
+I did my assignment 3 & 4 by myself alone. I looked at posts explaining those tests and also look at stackover flow for coding help and I asked classmates on different test features.
 
 -------------------------
 
