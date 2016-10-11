@@ -12,7 +12,7 @@ while he was also in the cusp study room. I did the later questions mostly(90%) 
 
 Formulate the Null hypothesis in words and in formulae for the 4 experiments below:
 
-Do diets help lose more fat than the exercise?
+Do diets help lose more fat than the exercise? \n
 Experimental setup: you have a test and a control sample.
 H0: The average fat level in the test sample population after diets within three months is less or same than the average fat level in the controled sample population 
 after exercise within three month, singnificant level = 0.05.
