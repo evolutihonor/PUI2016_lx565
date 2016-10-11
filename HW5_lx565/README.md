@@ -10,7 +10,7 @@ while he was also in the cusp study room. I did the later questions mostly(90%) 
 
 
 
-Formulate the Null hypothesis in words and in formulae for the 4 experiments below:
+# Assignment 3: Formulate the Null hypothesis in words and in formulae for the 4 experiments below:
 
 ## Do diets help lose more fat than the exercise? 
 Experimental setup: you have a test and a control sample.
@@ -22,6 +22,7 @@ POLL RESULTS: On May 16, 1994, Newsweek reported the results of a public opinion
 Bill Clinton, does he have the honesty and integrity you expect in a president?” (p. 23). 
 Poll surveyed 518 adults and 233, or 0.45 of them answered yes.
 ### H0: The percentage of surveyed adults answered yes to the poll is significantly higher or equal to the percentage of surveyed adults answered no, singnificant level = 0.05.
+
 
 ## Effectiveness of nicotine patches to quit smoking.
 Experimental setup: measure cessation rates for smokers randomly assigned to use a nicotine patch versus a placebo patch.
