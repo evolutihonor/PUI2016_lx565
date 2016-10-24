@@ -1,0 +1,60 @@
+
+# coding: utf-8
+
+# HOMEWORK 6 FOR PLOTING A GRAPH.
+# BY LE XU. ID: lx565
+
+# In[20]:
+
+import pandas as pd
+import matplotlib.pylab as plt
+
+get_ipython().magic(u'matplotlib inline')
+
+
+# In[51]:
+
+#read data 
+data = pd.read_csv("http://bit.ly/drinksbycountry")
+
+
+# In[52]:
+
+data.head() 
+
+
+# In[61]:
+
+data.groupby('continent').mean()
+
+
+# In[63]:
+
+data.groupby('continent').mean().plot(kind = "bar")
+
+
+# In[90]:
+
+newdata = data.groupby('continent').mean()
+newdata
+
+
+# ## this graph is not good example of good plot. Let's improve it
+
+# In[114]:
+
+#make the graph bigger
+ax = data.groupby('continent').mean().plot(kind = "bar",figsize=(12, 10),stacked=True)
+#ax.figsize=(10,10)
+ax.set_ylabel("Average amount of alcohol servings in liters", fontsize = 18)
+ax.set_xlabel("Categorized by Continent", fontsize = 18)
+ax.set_title("Average alcohol consumption per capita by continent", fontsize = 18)
+ax.legend(loc = 2)
+
+
+# ## This graph is a great presentation of the alcohol consumption for each continuent. We can see that Europe is overall has the highest consumption on wine and beer. South America is the second on wine and beer consumption. North America, which has the most sprirt servings. From this graph we can further analyze the data in order to help identify drinking needs.
+
+# In[ ]:
+
+
+
