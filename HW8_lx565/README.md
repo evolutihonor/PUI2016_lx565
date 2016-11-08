@@ -1,5 +1,5 @@
 ### This is the homework 8
-### I did the assignment 1 by myself. Used couples of YOUTUBE videos
+### I did the assignment 1 by myself. Used couples of YOUTUBE videos, and online resource.
 
 ### I will review two classmates' plots
 1. Chenxi Cui (cc5219)
