@@ -2,4 +2,4 @@ Seasonal Effecct:
 
 
 
-image[]
+!image[pic.jpg]
