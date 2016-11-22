@@ -9,6 +9,9 @@ There are more cold spots in upper east side the summer time than winter, it mig
 In the winter map, we can see upper west side starts to have some cold spots, which could due to expansion on citi bikes.
 ![image](citibike.jpg)
 
+Since the heatmap are created with weighted average, so comparing to two season could not be so accurate because each season is ploting again it self.
+
+
 
 
 Assignment 1&2:  I finished homework on my own. 
