@@ -43,8 +43,9 @@ Range of hours for this analysis.
 Day time (from 6:00 to 18:00)
 Night time (from 18:00 to 6:00)
 
-$$H0 : \frac{Day Long Trips}{Total Day Trip}\geq \frac{Night Long Trips}{Total Night Trips} $$
-$$H1 : \frac{Day Long Trips}{Total Day Trip}\< \frac{Night Long Trips}{Total Night Trips} $$
+$H_0$_ : $\\frac{Day Long Trips}{Total Day Trip}>= \\frac{Night Long Trips}{Total Night Trips}$
+$H_1$_ : $\\frac{Day Long Trips}{Total Day Trip} < \\frac{Night Long Trips}{Total Night Trips}$
+
 
 
 I will use a significance level  $$\alpha=0.05$$
