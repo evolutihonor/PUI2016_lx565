@@ -43,12 +43,11 @@ Range of hours for this analysis.
 Day time (from 6:00 to 18:00)
 Night time (from 18:00 to 6:00)
 
-$$H_0$_ : $\\frac{Day Long Trips}{Total Day Trip}>= \\frac{Night Long Trips}{Total Night Trips}$$
-$$H_1$_ : $\\frac{Day Long Trips}{Total Day Trip} < \\frac{Night Long Trips}{Total Night Trips}$$
 
+# _$H_0$_ : $\frac{Day Long Trips}{Total Day Trip}>= \frac{Night Long Trips}{Total Night Trips}$
+# _$H_1$_ : $\frac{Day Long Trips}{Total Day Trip} < \frac{Night Long Trips}{Total Night Trips}$
 
-
-I will use a significance level  $$\alpha=0.05\$$
+I will use a significance level alpha=0.05
 
 I will probably use one month data in the winter and one month in the summer time.  
 
