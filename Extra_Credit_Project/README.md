@@ -48,7 +48,7 @@ $$H_1$_ : $\\frac{Day Long Trips}{Total Day Trip} < \\frac{Night Long Trips}{Tot
 
 
 
-I will use a significance level  $$\alpha=0.05$$
+I will use a significance level  $$\alpha=0.05\$$
 
 I will probably use one month data in the winter and one month in the summer time.  
 
